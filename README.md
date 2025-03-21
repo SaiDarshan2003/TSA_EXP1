@@ -22,7 +22,6 @@ plt.title("Average Annual Population (2000-2023)")
 plt.show()
 ```
 ## OUTPUT:
-## POPULATION:
 ![image](https://github.com/user-attachments/assets/3be9d0e3-4d8c-49c3-91d9-e04cca4d6d07)
 
 ## RESULT:
