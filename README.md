@@ -25,8 +25,7 @@ plt.show()
 ```
 ## OUTPUT:
 ## POPULATION:
-
-![pop](https://github.com/LokeshRajamani/TSA_EXP1/assets/120544804/5fe0a8f5-4301-451d-8129-d471a27595a4)
+![image](https://github.com/user-attachments/assets/3be9d0e3-4d8c-49c3-91d9-e04cca4d6d07)
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
